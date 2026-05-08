@@ -170,6 +170,20 @@ footer {
     visibility: hidden;
 }
 
+/* Bottom-right Streamlit badge */
+
+[data-testid="stDecoration"] {
+    display: none;
+}
+
+._viewerBadge_nim44_23 {
+    display: none !important;
+}
+            
+a[href*="streamlit.io/cloud"] {
+    display: none !important;
+}
+
 </style>
 """, unsafe_allow_html=True)
 
