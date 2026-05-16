@@ -158,6 +158,24 @@ game_finished = (
 st.markdown("""
 <style>
 
+#MainMenu {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+<style>
+
 html, body, [class*="css"] {
     background-color: #08111f;
     color: white;
