@@ -1665,6 +1665,16 @@ else:
     to compare human intuition against AI-based house price predictions.
     </div>
 
+    <div style="font-size: 14px; color: rgb(142, 163, 185); line-height: 1.5; max-width: 700px;">
+        <a 
+            href="https://guido-braam.github.io/Predicting-House-Prices/" 
+            target="_blank"
+            style="color: rgb(142, 163, 185); text-decoration: underline;"
+        >
+            View the research report
+        </a>
+    </div>
+
     </div>
 
     <div style="
@@ -1688,7 +1698,10 @@ else:
     </div>
 
     <div>
-    Developed by Guido
+        Developed by 
+        <a href="https://www.linkedin.com/in/guido-braam-b12229171/">
+            Guido
+        </a>
     </div>
 
     <div style="
